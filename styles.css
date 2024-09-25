@@ -2,9 +2,19 @@ h1{
 	color: #5C6AC4;
 }
 
-p {
+p1 {
   padding: 10px;
 	color: white;
 	background-color: #5C6AC4;
+	width: fit-content;
+}
+h3{
+  color: red;
+}
+p2{
+
+padding: 1px;
+	color: white;
+	background-color: red;
 	width: fit-content;
 }
