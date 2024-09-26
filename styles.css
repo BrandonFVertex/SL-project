@@ -8,7 +8,7 @@ p1 {
 	background-color: #5C6AC4;
 	width: fit-content;
 }
-h3{
+h2{
   color: red;
 }
 p2{
@@ -17,4 +17,5 @@ padding: 1px;
 	color: white;
 	background-color: red;
 	width: fit-content;
+body { background-image: url("https://t3.ftcdn.net/jpg/04/74/05/94/360_F_474059464_qldYuzxaUWEwNTtYBJ44VN89ARuFktHW.jpg");
 }
