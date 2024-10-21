@@ -1,8 +1,13 @@
 h1
   {
 	color: #5C6AC4;
+	background-color:white;
   }
 
+a {
+  background-color:white;
+  }
+  
 p1 
   {
   padding: 10px;
